@@ -258,7 +258,7 @@
       background: #fff;
       border-bottom: 3px solid #50C7C7;
       display:flex;
-      justify-content:left;
+      justify-content:unset;
       flex-direction:row;
       
       
